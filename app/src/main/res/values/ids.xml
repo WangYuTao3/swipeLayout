@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="holder" type="id" />
+    <item name="position" type="id" />
+    <item name="object" type="id" />
+    <item name="countdownProgressId" type="id" />
+    <item name="loadingViewId" type="id" />
+    <item name="key_guess_id" type="id" />
+    <item name="key_post_id" type="id" />
+</resources>
